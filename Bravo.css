@@ -1,0 +1,52 @@
+body{
+    position: fixed;
+    margin:0px;
+    padding:0px;
+}
+header .kow{
+    width:1366px;
+    height:80px;
+    background-color: green;
+}
+header .kow h1{
+    position:absolute;
+    color:white;
+    text-align: center;
+    padding-left:450px;
+}
+main .labo{
+    width:400px;
+    height:577px;
+    background-color:darkcyan;
+}
+main .labo p{
+    position: absolute;
+    padding-left: 10px;
+    font-size: 30px;
+}
+
+main .labo1{
+    position: relative;
+    left:400px;
+    top:-577px;
+    width:400px;
+    height:577px;
+    background-color:indianred; 
+}
+
+main .labo2{
+    position: relative;
+    left:800px;
+    top:-1170px;
+    width:600px;
+    height:577px;
+    background-color:blueviolet; 
+}
+
+main .labo1 img{
+    width: 250px;
+    height: 260px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
